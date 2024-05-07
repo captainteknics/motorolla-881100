@@ -1,7 +1,3 @@
-# motorolla-881100
-This project aims to develop and demonstrate a simplified text compression and decompression algorithm implementation in assembly language for the Motorola 88110 processor. The focus is on understanding the fundamental concepts of lossless compression techniques and gaining practical experience in assembly programming
-
-
 User Manual
 Purpose:
 Provides instructions on how to use the assembly code routines for text compression and decompression.
@@ -108,5 +104,4 @@ Verification:
 
 Examine the compressed output and compare it to the expected result based on the test plan.
 Examine the decompressed output and ensure it matches the original input.
-
 
